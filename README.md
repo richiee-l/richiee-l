@@ -14,8 +14,6 @@
     <a href= "https://www.w3schools.com/html/"> <img src= "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height= 40> </a>
     <a href= "https://www.w3schools.com/css/"> <img src= "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height= 40> </a>  
     <a href= "https://www.w3schools.com/js/"> <img src= "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width= 35 height= 40> </a>
-    <a href= "https://developer.android.com/studio"> <img src= "https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" height= 40>
-    <a href= "https://kotlinlang.org/"> <img src= "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kotlin.png" width= 35 height= 40>
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=richiee-l)
